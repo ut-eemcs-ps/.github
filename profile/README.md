@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Our beloved group members](/GroepsfotoPS2025.jpg)
 
 Our research group specializes in networked smart sensing systems, also called Pervasive Systems. We are a multidisciplinary team of passionate researchers in the vibrant realm of Pervasive Computing, wireless systems, and sensor data analytics. Committed to addressing societal challenges, we harness cutting-edge and foundational technologies to drive impactful solutions. Our group, comprised of dedicated staff and around 25 PhD. students, collaboratively engages in diverse national and international projects. We regularly contribute to conferences and  journals, consistently pushing the boundaries of knowledge and technology.
 
